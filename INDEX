@@ -1,0 +1,3 @@
+DBI.RODBC-internal       Version 4 meta-data in the DBI.RODBC package
+RODBC                    Instantiate an R-ODBC database driver
+newId                    Help (``mixin'') Id class and methods
